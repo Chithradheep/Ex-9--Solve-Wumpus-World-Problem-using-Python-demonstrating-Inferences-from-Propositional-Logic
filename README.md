@@ -137,6 +137,7 @@ while(player):
 </p>
 
 <hr>
+
 ## OUTPUT:
 
 <img width="277" height="126" alt="image" src="https://github.com/user-attachments/assets/a99bf132-d9b5-47be-96c9-e4b92e66ed45" />
