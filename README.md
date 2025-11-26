@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:           </h3>
-<h3>Register Number            </h3>
+<h3>Name: Chithradheep R          </h3>
+<h3>Register Number:  2305002003            </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -137,15 +137,12 @@ while(player):
 </p>
 
 <hr>
-<h1>Sample Input and Output:</h1>
-<hr>
+## OUTPUT:
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
+<img width="277" height="126" alt="image" src="https://github.com/user-attachments/assets/a99bf132-d9b5-47be-96c9-e4b92e66ed45" />
+<img width="266" height="133" alt="image" src="https://github.com/user-attachments/assets/ba79ed40-967d-4db7-8e86-514660669be6" />
+<img width="293" height="194" alt="image" src="https://github.com/user-attachments/assets/f7bcc9c4-bdfa-4c72-a308-7b3ccf1216cf" />
 
-## OUTPUT
-
-![439499566-74590332-6d8c-4623-92f1-08397aa1e854](https://github.com/user-attachments/assets/fb981510-0c4c-4e9c-b7c5-9dcbf9863e50)
 
 ## RESULT
 
